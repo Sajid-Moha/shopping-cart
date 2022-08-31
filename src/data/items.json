@@ -1,0 +1,38 @@
+[
+    {
+        "id" :  1,
+        "img" : "/media/pizza.jpg",
+        "name" : "Veggie Pizza",
+        "price" : 8.99
+    },
+    {
+        "id" :  2,
+        "img" : "/media/burger.jpg",
+        "name" : "Cheese Burger",
+        "price" : 5.99
+    },
+    {
+        "id" :  3,
+        "img" : "/media/soda.jpg",
+        "name" : "Soda",
+        "price" : 1.99
+    },
+    {
+        "id" :  4,
+        "img" : "/media/water.jpg",
+        "name" : "Water",
+        "price" : 0
+    },
+    {
+        "id" :  5,
+        "img" : "/media/pizza.jpg",
+        "name" : "Hot Dog",
+        "price" : 2.99
+    },
+    {
+        "id" :  6,
+        "img" : "/media/pizza.jpg",
+        "name" : "Milk Shake",
+        "price" : 2.99
+    }
+]
