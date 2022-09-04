@@ -3,36 +3,42 @@
         "id" :  1,
         "img" : "/media/pizza.jpg",
         "name" : "Veggie Pizza",
-        "price" : 8.99
+        "price" : 8.99,
+        "imgAlt" : "Overhead photo of a pizza with mushroom and spinage topping"
     },
     {
         "id" :  2,
         "img" : "/media/burger.jpg",
         "name" : "Cheese Burger",
-        "price" : 5.99
+        "price" : 5.99,
+        "imgAlt" : "Double cheeseburger with fries on the side on a paper plate"
     },
     {
         "id" :  3,
         "img" : "/media/soda.jpg",
         "name" : "Soda",
-        "price" : 1.99
+        "price" : 1.99,
+        "imgAlt" : "Bottles of Sprite, Coca Cola, and Coca Cola Zero sodas next to each other"
     },
     {
         "id" :  4,
         "img" : "/media/water.jpg",
         "name" : "Water",
-        "price" : 0
+        "price" : 0,
+        "imgAlt" : "Glass of water with water being poured in"
     },
     {
         "id" :  5,
-        "img" : "/media/pizza.jpg",
+        "img" : "",
         "name" : "Hot Dog",
-        "price" : 2.99
+        "price" : 2.99,
+        "imgAlt" : "Photo of hotdog"
     },
     {
         "id" :  6,
-        "img" : "/media/pizza.jpg",
+        "img" : "",
         "name" : "Milk Shake",
-        "price" : 2.99
+        "price" : 2.99,
+        "imgAlt" : "Chocolate milkshake in clear glass with straw in it"
     }
 ]

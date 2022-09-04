@@ -1,11 +1,14 @@
+import React from 'react';
+
 import Header from '../components/Header';
+import Gallery from '../components/ItemGallery';
 
 function Store () {
     return (
-        <div className="home">
+        <>
             <Header></Header>
-            hi
-        </div>
+            <Gallery></Gallery>
+        </>
     );
 }
 

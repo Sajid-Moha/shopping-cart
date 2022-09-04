@@ -1,3 +1,4 @@
+import React from 'react';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import Store from "./pages/Store";
@@ -6,6 +7,7 @@ import Cart from "./pages/Cart";
 import './styles/normalize.css';
 import './styles/header.css';
 import './styles/home.css';
+import './styles/menu.css';
 
 const RouteSwitch = () => {
   return (

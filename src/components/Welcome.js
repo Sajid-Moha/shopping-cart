@@ -1,3 +1,5 @@
+import React from 'react';
+
 import cooking from "../media/cooking.jpg";
 
 function Welcome() {

@@ -10,7 +10,7 @@ function Header() {
         <header>
             <div className="branding">
                 <img src={myLogo} alt="chef hat logo" className="logo"></img>
-                <div class="brand-name">Fake Restaurant</div>
+                <div className="brand-name">Fake Restaurant</div>
             </div>
             <nav>
                 <Link to="/">Home</Link>
