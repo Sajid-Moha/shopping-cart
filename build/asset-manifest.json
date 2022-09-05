@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shopping-cart/static/css/main.8a0a4bd2.css",
+    "main.js": "/shopping-cart/static/js/main.d75a2b51.js",
+    "static/media/cooking.jpg": "/shopping-cart/static/media/cooking.18a31706f0c2d5a57d58.jpg",
+    "static/media/chef-logo.svg": "/shopping-cart/static/media/chef-logo.1b902aa4bd2336cfc1bc519e99f5504d.svg",
+    "index.html": "/shopping-cart/index.html",
+    "main.8a0a4bd2.css.map": "/shopping-cart/static/css/main.8a0a4bd2.css.map",
+    "main.d75a2b51.js.map": "/shopping-cart/static/js/main.d75a2b51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a0a4bd2.css",
+    "static/js/main.d75a2b51.js"
+  ]
+}
