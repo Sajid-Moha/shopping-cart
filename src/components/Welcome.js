@@ -4,7 +4,7 @@ import cooking from "../media/cooking.jpg";
 
 function Welcome() {
     return (
-        <main class="home-welcome">
+        <main className="home-welcome">
         <h1>People Love our Food!</h1>
             <article>
                 <p>

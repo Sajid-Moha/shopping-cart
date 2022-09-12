@@ -17,7 +17,7 @@ function Gallery() {
                       id={itemObj.id}
                       name={itemObj.name}
                       price={itemObj.price}
-                      img={itemImg}
+                      img={process.env.PUBLIC_URL + itemImg}
                       imgAlt={itemImgAlt} />);
     });
 
